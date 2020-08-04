@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**beefreguglia/beefreguglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Bernardo Freguglia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Estudante de ciência da computação e em busca de ter conhecimento para conseguir resolver vários problemas.
+Estudo para me tornar um FullStack Developer :computer:
+
+ :rocket:  &nbsp; Estou realizando cursos na **Rocketseat**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL, entre outros jogos e também gosto de assistir animes e séries
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-freguglia/)](https://www.linkedin.com/in/bernardo-freguglia/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-beefreguglia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beefreguglia@gmail.com)](mailto:beefreguglia@gmail.com)
