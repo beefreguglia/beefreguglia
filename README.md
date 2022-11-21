@@ -1,11 +1,8 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-
 # Bernardo Freguglia
 
 ## Olá pessoal 👋
-Estudante de ciência da computação e em busca de ter conhecimento para conseguir resolver vários problemas.
-Estudo para me tornar um FullStack Developer :computer:
+Estudante de ciência da computação e trabalhando com desenvolvimento web frontend.
+Aprendendo e aprimorando cada dia para desenvolver mais e ter novos conhecimentos ! :computer:
 
  :rocket:  &nbsp; Estou realizando cursos na **Rocketseat**
  <br/> :purple_heart: &nbsp; Estagiário Front-end
