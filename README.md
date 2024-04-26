@@ -1,14 +1,14 @@
 # 🚀 Bem-vindo ao meu repositório no GitHub!
 
-Sou um desenvolvedor front-end junior apaixonado por criar soluções inovadoras e impactantes através do uso de tecnologias modernas 💻. Com uma forte paixão pelo desenvolvimento de aplicações web, trabalho incansavelmente para oferecer soluções escaláveis, performáticas e com uma excelente experiência do usuário 🤩.
+Sou um desenvolvedor front-end apaixonado por criar soluções inovadoras e impactantes através do uso de tecnologias modernas 💻. Com uma forte paixão pelo desenvolvimento de aplicações web, trabalho incansavelmente para oferecer soluções escaláveis, performáticas e com uma excelente experiência do usuário 🤩.
 
-Neste repositório, você encontrará projetos desenvolvidos com muito cuidado e dedicação, que buscam demonstrar meus conhecimentos e habilidades no desenvolvimento front-end. Utilizo as tecnologias ReactJS, NextJS, Typescript, Jest, Cypress, SASS e/ou bibliotecas de CSS in JS para alcançar resultados surpreendentes 🚀.
+Entre meus repositórios, você encontrará projetos desenvolvidos uma gama de projetos, entre eles alguns produzidos na univerdade, alguns projetos pessoais e projetos feitos em cursos e bootcamps. Utilizo algumas tecnologias como ReactJS, NextJS, Typescript, Jest, Cypress, SASS, Styled Components, tailwind, etc.
 
-Minha jornada como desenvolvedor não para por aí, eu também tenho um grande interesse em aprender back-end e tornar-me full-stack. Acredito que isso me permitirá criar soluções ainda mais completas e impactantes.
+Minha jornada como desenvolvedor não para por aí, eu também tenho aprendido um pouco de back-end e anseio me tornar full-stack. Acredito que isso me permitirá criar soluções ainda mais completas e focadas em resolver os problemas.
 
-Quando não estou codificando, sou fã de jogos FPS e estratégia, séries e animes 🎮📺🌀.
+Quando não estou codando, ou estou jogando, ou assistindo alguma coisa 🎮📺.
 
-Sinta-se à vontade para explorar, dar uma olhada e até mesmo contribuir com sugestões e melhorias 🔍👨‍💻. Estou ansioso para conectar e colaborar com a comunidade de desenvolvedores 🤝.
+Sinta-se à vontade para explorar, dar uma olhada e até mesmo contribuir com sugestões e melhorias 🔍👨‍💻.
 
 Contato:
 
