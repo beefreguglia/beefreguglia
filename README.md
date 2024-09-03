@@ -1,16 +1,24 @@
 # 🚀 Bem-vindo ao meu repositório no GitHub!
 
-Sou um desenvolvedor web front-end apaixonado por criar soluções impactantes através do uso da stack ReactJS/NodeJS. Com uma forte paixão pelo desenvolvimento de aplicações web, trabalho para oferecer soluções escaláveis, performáticas e com uma excelente experiência do usuário .
+Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e impactantes utilizando a stack ReactJS/NodeJS/NextJS. Tenho um forte compromisso com o desenvolvimento de aplicações web escaláveis, performáticas e com uma excelente experiência do usuário.
 
-Entre meus repositórios, você encontrará alguns projetos desenvolvidos, entre eles alguns produzidos na universidade, alguns projetos pessoais e projetos feitos em cursos e bootcamps. Utilizo algumas tecnologias como HTML, CSS, Javascript, React e NextJs.
-Minha jornada como desenvolvedor não para por aí, eu também tenho aprendido um pouco de back-end e anseio me tornar full-stack. Acredito que isso me permitirá criar soluções ainda mais completas e focadas em resolver os problemas.
+## Sobre Mim
 
-Quando não estou codando, ou estou jogando, ou assistindo alguma coisa 🎮📺.
+Nos meus repositórios, você encontrará uma variedade de projetos, incluindo trabalhos acadêmicos, projetos pessoais e iniciativas desenvolvidas em cursos e bootcamps. Minhas principais competências incluem:
 
-Sinta-se à vontade para explorar, dar uma olhada e até mesmo contribuir com sugestões e melhorias 🔍👨‍💻.
+- **Front-end:** HTML, CSS, JavaScript, Typescripy, React, Next.js
+- **Back-end:** Node.js, Express, Fastify, Prisma
 
-Contato:
+Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades para oferecer soluções completas e eficazes.
 
-[![Gmail Badge](https://img.shields.io/badge/-beefreguglia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beefreguglia@gmail.com)](mailto:beefreguglia@gmail.com)
+## Projetos em Destaque
 
-[![Linkedin Badge](https://img.shields.io/badge/-BernardoFreguglia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-freguglia/)](https://www.linkedin.com/in/bernardo-freguglia/) 
+- **Next-RBAC-multi-tenan:** Este projeto contém todos os pontos necessários para configurar um SaaS multi tenan com Next.js incluindo autenticação e autorização RBAC.
+
+## Interesses Pessoais
+
+Quando não estou codando, gosto de relaxar jogando videogames ou assistindo séries e filmes 🎮📺.
+
+## Contato
+
+Sinta-se à vontade para explorar meus projetos, dar feedback e contribuir com sugestões e melhorias. Vamos nos conectar!
