@@ -6,7 +6,7 @@ Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e imp
 
 Nos meus repositórios, você encontrará uma variedade de projetos, incluindo trabalhos acadêmicos, projetos pessoais e iniciativas desenvolvidas em cursos e bootcamps. Minhas principais competências incluem:
 
-- **Front-end:** HTML, CSS, JavaScript, Typescripy, React, Next.js
+- **Front-end:** HTML, CSS, JavaScript, Typescript, React, Next.js
 - **Back-end:** Node.js, Express, Fastify, Prisma
 
 Estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades para oferecer soluções completas e eficazes.
