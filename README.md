@@ -6,8 +6,6 @@ Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e imp
 
 ![Bernardo Freguglia GitHub stats](https://github-readme-stats.vercel.app/api?username=beefreguglia&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beefreguglia&layout=compact&theme=github_dark)
-
 ## Sobre Mim
 
 Nos meus repositórios, você encontrará uma variedade de projetos, incluindo trabalhos acadêmicos, projetos pessoais e iniciativas desenvolvidas em cursos e bootcamps. Minhas principais competências incluem:
