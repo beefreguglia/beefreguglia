@@ -22,3 +22,4 @@ Quando não estou codando, gosto de relaxar jogando videogames ou assistindo sé
 ## Contato
 
 Sinta-se à vontade para explorar meus projetos, dar feedback e contribuir com sugestões e melhorias. Vamos nos conectar!
+https://bfreguglia.vercel.app
