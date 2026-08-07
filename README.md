@@ -1,10 +1,6 @@
-# 🚀 Bem-vindo ao meu repositório no GitHub!
+# Bem-vindo ao meu repositório no GitHub!
 
 Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e impactantes utilizando a stack ReactJS/NodeJS/NextJS. Tenho um forte compromisso com o desenvolvimento de aplicações web escaláveis, performáticas e com uma excelente experiência do usuário.
-
-## Minhas Estatísticas
-
-![Bernardo Freguglia GitHub stats](https://github-readme-stats.vercel.app/api?username=beefreguglia&show_icons=true&theme=github_dark)
 
 ## Sobre Mim
 
